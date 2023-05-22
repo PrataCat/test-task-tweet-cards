@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/test-task-tweet-cards/static/css/main.bfb8d035.css",
+    "main.js": "/test-task-tweet-cards/static/js/main.c03e53ec.js",
+    "static/js/487.624f27b9.chunk.js": "/test-task-tweet-cards/static/js/487.624f27b9.chunk.js",
+    "static/js/403.1e08a4ad.chunk.js": "/test-task-tweet-cards/static/js/403.1e08a4ad.chunk.js",
+    "static/js/224.610ba4b0.chunk.js": "/test-task-tweet-cards/static/js/224.610ba4b0.chunk.js",
+    "static/js/881.b40b0cdd.chunk.js": "/test-task-tweet-cards/static/js/881.b40b0cdd.chunk.js",
+    "static/js/402.9cfd35d6.chunk.js": "/test-task-tweet-cards/static/js/402.9cfd35d6.chunk.js",
+    "static/js/96.7b103874.chunk.js": "/test-task-tweet-cards/static/js/96.7b103874.chunk.js",
+    "static/js/0.04928f2e.chunk.js": "/test-task-tweet-cards/static/js/0.04928f2e.chunk.js",
+    "static/media/marks.png": "/test-task-tweet-cards/static/media/marks.1afcbd95970d3cb770d9.png",
+    "static/media/ellipse.png": "/test-task-tweet-cards/static/media/ellipse.c628e0a3e4f33e3d483d.png",
+    "index.html": "/test-task-tweet-cards/index.html",
+    "main.bfb8d035.css.map": "/test-task-tweet-cards/static/css/main.bfb8d035.css.map",
+    "main.c03e53ec.js.map": "/test-task-tweet-cards/static/js/main.c03e53ec.js.map",
+    "487.624f27b9.chunk.js.map": "/test-task-tweet-cards/static/js/487.624f27b9.chunk.js.map",
+    "403.1e08a4ad.chunk.js.map": "/test-task-tweet-cards/static/js/403.1e08a4ad.chunk.js.map",
+    "224.610ba4b0.chunk.js.map": "/test-task-tweet-cards/static/js/224.610ba4b0.chunk.js.map",
+    "881.b40b0cdd.chunk.js.map": "/test-task-tweet-cards/static/js/881.b40b0cdd.chunk.js.map",
+    "402.9cfd35d6.chunk.js.map": "/test-task-tweet-cards/static/js/402.9cfd35d6.chunk.js.map",
+    "96.7b103874.chunk.js.map": "/test-task-tweet-cards/static/js/96.7b103874.chunk.js.map",
+    "0.04928f2e.chunk.js.map": "/test-task-tweet-cards/static/js/0.04928f2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb8d035.css",
+    "static/js/main.c03e53ec.js"
+  ]
+}
